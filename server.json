@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Holox76000/protocol-career",
+  "title": "Protocol Career",
+  "description": "Practice consulting drills and prepare for case interviews at the top US consulting firms.",
+  "version": "0.0.0",
+  "websiteUrl": "https://protocol-club.com",
+  "repository": {
+    "url": "https://github.com/Holox76000/protocol-career-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://protocol-club.com/api/mcp"
+    }
+  ]
+}
